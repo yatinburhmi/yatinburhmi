@@ -1,6 +1,6 @@
 ## Hi there, I am Yatin👋
 
-![Static Badge](https://img.shields.io/badge/yatinburhmi-blue?logo=linkedin&logoColor=white&color=blue&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fyatin-burhmi%2F)
+[![LinkedIn Badge](https://img.shields.io/badge/yatinburhmi-blue?logo=linkedin&logoColor=white&color=blue&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fyatin-burhmi%2F)](https://www.linkedin.com/in/yatin-burhmi/)
 
 <!--
 **yatinburhmi/yatinburhmi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
